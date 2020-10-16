@@ -1,0 +1,12 @@
+z = 0.0
+z = 1.0
+z = i
+z = -4.0
+sqrt(z) = [-2.0i, 2.0i]
+z = 1.0 + i
+|z| = 1.4142135623730951
+z2 = 2.0 + i
+z nach Addition von z2 = 3.0 + 2.0i
+z nach Multiplikation von z2 = 4.0 + 7.0i
+z2 = -4.0 - 7.0i
+summe = 0.0
